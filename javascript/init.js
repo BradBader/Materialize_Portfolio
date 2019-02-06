@@ -1,8 +1,10 @@
-(function($){
-  $(function(){
 
-    $('.sidenav').sidenav();
-    $('.parallax').parallax();
+$(document).ready(function(){
+  $('.fixed-action-btn').floatingActionButton();
 
-  }); // end of document ready
-})(jQuery); // end of jQuery name space
+  (function($){
+    $(function(){
+  
+      $('.sidenav').sidenav();
+      $('.parallax').parallax();
+})})})

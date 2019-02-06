@@ -85,6 +85,7 @@ p {
     margin-bottom: 20px;
 }
 
+.mrt10 {margin-top: 10px;}
 .mrgb40 {
     margin-bottom: 40px;
 }
@@ -156,9 +157,13 @@ h5 {
 footer {
     position: absolute;
     bottom: 0px;
-    width: 100%;
+    left: 15%;
+    width: 70%;
+    max-width: 70%;
 }
 
 .OS {
     font-family: 'Lora', serif;
 }
+
+h5 {margin: 0px}
