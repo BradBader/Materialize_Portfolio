@@ -1,0 +1,231 @@
+/* * {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}   */
+
+header {
+    background-color: white;
+    /* padding-top: 20px 0px 0px 0px; */
+    height: 50px;
+    overflow: hidden;
+}
+
+body {
+    background-image:url("../Images/qbkls.png")
+}
+
+.navbar-brand {
+    margin: 0px 86% 0px 0px;
+    padding: 0px 0px 0px 0px;
+
+}
+.wrapper {
+    /* max-width: 960px;
+    min-width: 960px; */
+    width: 960px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    margin: 0px 19.29%;
+    padding: 0px;
+    /* height: 960px; */
+    background-color: #ffffff;
+}
+
+#name {
+    float: left;
+    /* top: 0px; */
+    /* left: 240px; */
+    width: 190px;
+    background-color: teal;;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    margin: 0px 0px 0px 0px;
+    padding: 5px 0px 0px 0px;
+    border: 0px 0px 0px 0px;
+    content: 0px 0px 0px 0px;
+    height: 50px;
+    border-bottom-style: solid;
+    border-color: black;
+    overflow: hidden;
+}
+
+.linkset {
+    float: right;
+    color: black;
+    text-align: center;
+    width: 250px;
+    /* padding: 2px; */
+    /* border-right: solid black; */
+    /* margin: 10px 0px 10px 0px; */
+    
+}
+
+a {
+    /* margin-right: 3px; */
+    border-right: 1px solid black;
+    padding: 0px 5px 0px 5px;
+    font-size: 20px;
+    color:#777777;
+}
+
+a:last-of-type {
+    border-right: none;
+}
+
+/* #link2 {
+    /* margin: 0px 1px 0px 1px;
+    float: right; */
+    /* text-align: center;
+    border-right: solid 1px black;
+    border-left: solid 1px black; */
+/* } */
+
+.about_text {
+    float: right;
+}
+
+header {
+    padding: 0px;
+    border: 0px;
+    /* left: 100px; */
+}
+
+.content {
+    height: 100%;
+    width: 60%;
+    background-color: #ffffff;
+    margin: 10px auto;
+    padding: 10px;
+    border: solid 1px #dddddd;
+    resize: none;
+}
+
+#profile { 
+    float:left;
+    padding: 0px 10px 10px 0px;
+} 
+
+h1 {color: teal;
+    /* margin-bottom: 0px;
+    padding: 0px; */
+    /* border-bottom: 1px solid grey; */
+}
+
+.rowtop {
+    padding: 0px 0px 10px 10px;
+    border: 5px solid red;
+}
+
+/* #fname {
+    font: size 24px;
+    color: gray;
+} */
+
+input[type=text] {
+    width: 100%;
+    padding: 2px 0px 2px 2px;
+    margin: 0px;
+    border: 2px solid gray;
+}
+
+input[type=submit] {
+    background-color: teal;
+    border-style:solid black 1px;
+    color:white;
+    padding: 10px 10px 10px 10px;
+    text-decoration:none;
+    cursor:pointer;
+    text-align: center;
+    font-size: 24px;
+}
+
+label {
+    font-size: 18px;
+    color: gray;
+    /* margin: 10px 0px; */
+}
+
+#Message {
+    width: 100%;
+    padding: 2px 0px 2px 2px;
+    margin: 0px;
+    border: 2px solid gray;
+    height: 150px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    rows: 10;
+    resize: none;
+}
+
+p {
+    font-family: 'Satisfy', cursive;
+    line-height:27px;
+    font-size: 18px;
+    display:block;
+    text-indent: 34px;
+    color: #777777;
+}
+
+/* .imgbox img {
+    float:left;
+} */
+
+.imgbox {
+    width: 500px;
+    margin: 0;
+}
+
+/* .mages {
+    float:left;
+    position:relative;
+    width: 200px;
+    height: 125px;
+} */
+
+.box99 {
+    float:left;
+    position:relative;
+    width: 200px;
+    height: 125px;
+    margin: 15px 15px 15px 0px;
+    overflow: hidden;
+    /* border: 1px solid black; */
+    display: block;
+    padding: 0px;
+}
+
+.fourfour {
+    position:absolute;
+    bottom: 10px;
+    background-color: teal;
+    width: 200px;
+    padding: 0px;
+}
+
+h4 {
+    padding: 0px;
+    text-align: center;
+    color: white;
+    font-style: normal;
+}
+
+footer {
+    text-align:center;
+    color: white;
+    background-color: #666666;
+    width: 100%;
+    height:8%;
+    border-top: solid 3px teal;
+    position: fixed;
+    left: 0;
+    bottom:0;
+}
+
+#C{
+    font-size:10px;
+    padding: 20px 0px 0px 0px;
+    overflow: hidden;
+}
+

@@ -1,0 +1,164 @@
+.h1name {
+    width: auto;
+    background: teal;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    padding: 12px 5px 12px 5px;
+    margin: 0px 0px 0px 0px;
+}
+
+.fillteal {
+    background: teal;
+}
+
+.txtw {
+    color: white;
+}
+
+.bkwhite {
+    background: white;
+}
+
+body {
+    background-image:url("../Images/qbkls.png");
+    margin-bottom: 60px;
+}
+
+.nav-link2 {
+    border-left: gray solid 1px;
+    border-right: gray solid 1px;
+}
+.fright {
+    float:right;
+}
+
+.rowheader {
+    border-bottom: .5px solid lightgrey;
+    font-size: 24px;
+    margin: 0px 0px 0px 0px;
+}
+
+.hh1 {
+    font-size: 24px;
+    color: teal;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 20px 0px 20px;
+}
+
+p {
+    text-indent: 20px;
+    font-family: 'Lora', serif;
+    font-size: 18px;
+}
+
+.content {
+    background-color: white;
+    border-left: solid lightgrey 1px;
+    border-right: solid lightgrey 1px;
+    border-bottom: solid lightgrey 1px;
+    border-top: solid lightgrey 1px;
+    margin-top: 20px;
+}
+
+.nopadright {
+    padding-right: 0px;
+}
+
+.sixteenp {
+    padding: 12px 0px 12px 0px;
+}
+
+.nopad {
+    padding: 0px;
+}
+
+.none {
+    visibility: hidden;
+}
+
+.mrg20 { 
+    margin: 0px 20px 0px 20px;
+}
+
+.mrgb20 {
+    margin-bottom: 20px;
+}
+
+.mrgb40 {
+    margin-bottom: 40px;
+}
+
+.noborder {
+    border: none;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.pad20 {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.ml20 {
+    margin-left: 20px;
+}
+
+.maxw {
+    width: 100%;
+}
+
+#portfolio1 {
+    position: relative;
+}
+
+
+.textbox {
+    /* float:left; */
+    position:relative;
+    /* width: 200px; */
+    height: 250px;
+    /* margin: 15px 15px 15px 0px; */
+    overflow: hidden;
+    /* border: 1px solid black; */
+    display: block;
+    /* padding: 0px; */
+}
+
+.imgbanner {
+    position:absolute;
+    bottom: 25px;
+    background-color:grey;
+    width: 450px;
+    padding: 0px 0px 4px 0px;
+    /* margin-left: 4px; */
+}
+
+h5 {
+    /* padding: 0px; */
+    text-align: center;
+    color: white;
+    font-family: 'Playfair Display SC', serif;
+}
+
+.pdl20 {
+    padding-left: 20px;
+}
+
+.pdl40 {
+    padding-left: 40px;
+}
+     
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+.OS {
+    font-family: 'Lora', serif;
+}
